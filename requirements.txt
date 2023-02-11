@@ -4,3 +4,5 @@ cn2an
 jieba
 pypinyin
 Unidecode
+jieba3k
+pyopenjtalk
