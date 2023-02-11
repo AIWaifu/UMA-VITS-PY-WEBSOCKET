@@ -1,0 +1,6 @@
+requests
+websockets
+cn2an
+jieba
+pypinyin
+Unidecode
